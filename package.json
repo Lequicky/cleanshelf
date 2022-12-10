@@ -20,7 +20,7 @@
     "nodemon": "^1.19.1"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-html-parser": "^1.1.15",
     "puppeteer": "^1.17.0"
   }
